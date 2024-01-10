@@ -12,8 +12,8 @@ class ConferenceController extends AbstractController
     /**
      * @Route("/conference", name="app_conference")
      */
-    public function index(): Response
+    public function index(): int
     {
-        return;
+        return 1;
     }
 }

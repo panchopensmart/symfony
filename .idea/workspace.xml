@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="094a6b23-2662-4545-a76b-e48044c8ac3a" name="Changes" comment="" />
+    <list default="true" id="094a6b23-2662-4545-a76b-e48044c8ac3a" name="Changes" comment="add app">
+      <change beforePath="$PROJECT_DIR$/src/Controller/ConferenceController.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/ConferenceController.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -192,10 +194,24 @@
       <updated>1704871772311</updated>
       <workItem from="1704871773377" duration="5013000" />
       <workItem from="1704888461965" duration="1259000" />
+      <workItem from="1704891602602" duration="75000" />
     </task>
+    <task id="LOCAL-00001" summary="add app">
+      <option name="closed" value="true" />
+      <created>1704891641084</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1704891641084</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add app" />
+    <option name="LAST_COMMIT_MESSAGE" value="add app" />
   </component>
 </project>
